@@ -27,4 +27,4 @@ Para ejecutar este proyecto en tu entorno local, sigue los siguientes pasos:
 1. **Clona el repositorio** en tu máquina:
 
    git clone https://github.com/JuanJoseFamilia/Final-proyect.git
-   cd practica-final
+   
